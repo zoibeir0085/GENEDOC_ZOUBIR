@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<JOL_UTILISATEURS>
-<JOL_Login>basile.loue@aezan.com</JOL_Login>
-<JOL_Password>BasileLoué2021</JOL_Password>
-</JOL_UTILISATEURS>
+<expertise>
+ <dossier id="7408325">
+ <editeurlogin>DATA IMMO SOLUTIONS</editeurlogin>
+ <editeurpassword>DATA IMMO SOLUTIONS </editeurpassword>
+ <utilisateurlogin>basile.loue@aezan.com</utilisateurlogin>
+ <utilisateurpassword>BasileLoué2021</utilisateurpassword>
+ <demandeurciv>Madame</demandeurciv>
+ <demandeurprenom>Dominique</demandeurprenom>
+ <demandeurnom>MARTIN</demandeurnom>
+ <demandeuradresse>4 Passage du Moulinet 75013 Paris</demandeuradresse>
+ <demandeuremail>basile.loue@aezan.com</demandeuremail>
+ <demandeurtel>06.07.55.79.61</demandeurtel>
+ <propciv>Madame</propciv>
+ <propprenom>Dominique</propprenom>
+ <propnom>MARTIN</propnom>
+ <propadresse>4 Passage du Moulinet 75013 Paris</propadresse>
+ <propemail>prop@test.com</propemail>
+ <proptel>06.07.55.79.61</proptel>
+
+ <bientype>Appartement</bientype>
+ <biensurface>171</biensurface>
+ <bienrue>Rue d'Amsterdam</bienrue>
+ <biencodepostal>75008</biencodepostal>
+ <bienville>Paris</bienville>
+ 
+ </dossier>
+
+</expertise> 
