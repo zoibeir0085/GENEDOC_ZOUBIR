@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <JOL_UTILISATEURS>
 <JOL_Login>basile.loue@aezan.com</JOL_Login>
-<JOL_Password>BasileLoué2021</JOL_Password>
-  <editeurlogin>basile.loue@aezan.com</editeurlogin>
- <editeurpassword>BasileLoué2021</editeurpassword>
- <utilisateurlogin>basile.loue@aezan.com</utilisateurlogin>
- <utilisateurpassword>BasileLoué2021</utilisateurpassword>
- <bientype>Appartement</bientype>
- <biensurface>171</biensurface>
- <bienrue>Rue d'Amsterdam</bienrue>
- <biencodepostal>75008</biencodepostal>
- <bienville>Paris</bienville>
+<JOL_Login>DataIS</JOL_Login>
 </JOL_UTILISATEURS>
