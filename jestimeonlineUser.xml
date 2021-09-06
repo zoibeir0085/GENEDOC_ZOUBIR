@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<expertise>
- <dossier id="7408325">
- <editeurlogin>basile.loue@aezan.com</editeurlogin>
+<JOL_UTILISATEURS>
+<JOL_Login>basile.loue@aezan.com</JOL_Login>
+<JOL_Password>BasileLoué2021</JOL_Password>
+  <editeurlogin>basile.loue@aezan.com</editeurlogin>
  <editeurpassword>BasileLoué2021</editeurpassword>
  <utilisateurlogin>basile.loue@aezan.com</utilisateurlogin>
  <utilisateurpassword>BasileLoué2021</utilisateurpassword>
@@ -10,5 +11,4 @@
  <bienrue>Rue d'Amsterdam</bienrue>
  <biencodepostal>75008</biencodepostal>
  <bienville>Paris</bienville>
- </dossier>
-</expertise> 
+</JOL_UTILISATEURS>
