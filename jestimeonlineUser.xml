@@ -1,9 +1,66 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-
-<JOL_UTILISATEURS>
-
-<JOL_Login>basile.loue@aezan.com</JOL_Login>
-
-<JOL_Login>DataIS</JOL_Login>
-
-</JOL_UTILISATEURS>
+<?xml version="1.0" encoding="UTF-8"?>
+<expertise>
+ <dossier id="884220">
+ <editeurlogin>DATA IMMO SOLUTIONS</editeurlogin>
+ <editeurpassword>DATA IMMO SOLUTIONS </editeurpassword>
+ <utilisateurlogin>DataIS</utilisateurlogin>
+ <utilisateurpassword>Datais2021</utilisateurpassword>
+ <demandeurciv>Madame</demandeurciv>
+ <demandeurprenom>Dominique</demandeurprenom>
+ <demandeurnom>MARTIN</demandeurnom>
+ <demandeuradresse>4 Passage du Moulinet 75013 Paris</demandeuradresse>
+ <demandeuremail>demandeur@test.com</demandeuremail>
+ <demandeurtel>06.07.55.79.61</demandeurtel>
+ <propciv>Madame</propciv>
+ <propprenom>Dominique</propprenom>
+ <propnom>MARTIN</propnom>
+ <propadresse>4 Passage du Moulinet 75013 Paris</propadresse>
+ <propemail>prop@test.com</propemail>
+ <proptel>06.07.55.79.61</proptel>
+ <bientype>Appartement</bientype>
+ <biennumero>67</biennumero>
+ <bienrue>Rue d'Amsterdam</bienrue>
+ <biencodepostal>75008</biencodepostal>
+ <bienville>Paris</bienville>
+ <biendesign>APPARTEMENT A VENDRE , 6 PIECES , 171 m² , PARIS </biendesign>
+ <bienanneecinstr>1880</bienanneecinstr>
+ <biensurface>171</biensurface>
+ <biencarrez>1</biencarrez>
+ <biennbpieces>6</biennbpieces>
+ <biencopro>333</biencopro>
+ <bienfoncier>2200</bienfoncier>
+ <biennivx>5</biennivx>
+ <bienimmetage>6</bienimmetage>
+ <bienetage>1</bienetage>
+ <bienderetage>0</bienderetage>
+ <bienasc>1</bienasc>
+ <bienalc>0</bienalc>
+ <biensurfterrain>150</biensurfterrain>
+ <biendiag>Diagnostic Carrez (19/05/2012)
+Diagnostic amiante (19/05/2012)
+Diagnostic parasitaire (19/05/2012)
+Diagnostic plomb (19/05/2012)
+Diagnostic risques (19/05/2012)
+Diagnostic gaz (19/05/2012)
+Diagnostic électrique(19/05/2012) 
+Jestimo expert - 39, rue de Courcelles 75008 Paris - Tel : 01 42 99 67 84 - Email : support@jestimo.info
+Diagnostic énergétique
+</biendiag>
+ <biendescr>BEL APPARTEMENT FAMILIAL DE RECEPTION OU POUR PROFESSION LIBERALE, CLAIR,
+TRAVERSANT EST/OUEST ET TRES CALME, DANS UNE COPROPRIETE HAUSSMANNIENNE DE GRAND STANDING
+AVEC ASCENSEUR (171 m²) : parquet / moulures / cheminées d'époque - H.S.P. de 3,20 m. - galerie d'entrée -
+vaste double séjour (50 m²) - grande cuisine dînatoire - 4 chambres - 1 salle de bains - 1 salle de douche - 2 WC
+- nombreux rangements - grande cave (12 m²) - proche écoles, commerces, lieux de sorties et transports
+(métro lignes 2,3,12,13,14 - RER A,E - gare SNCF - bus) - PARKING POSSIBLE DANS L'IMMEUBLE - UN BIEN TOUT
+CONFORT A LA FOIS RESIDENTIEL ET CENTRAL.</biendescr>
+ <biencommentaire>Commentaire sur le bien</biencommentaire>
+ <bienimage1>http://url_de_la_photo_principale</bienimage1>
+ <bienimage2> http://url_de_la_photo_2</bienimage2>
+ <bienimage3> http://url_de_la_photo_3</bienimage3>
+ <bienimage4> http://url_de_la_photo_4</bienimage4>
+ <biendpe></biendpe>
+ <bienges></bienges>
+ <biennbchambres></biennbchambres>
+ <ss_type></ss_type>
+ </dossier>
+</expertise> 
